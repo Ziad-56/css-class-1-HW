@@ -1,0 +1,38 @@
+.heading_title{
+    text-align: left;
+    font-family: 'Great Vibes', cursive;
+    font-size: 90px;
+    color: #000;
+}
+.news_title{
+    font-family: fantasy;
+    font-size: 55px;
+    color: red;
+}
+.Oka{
+    width: 500px;
+    height: 250px;
+    
+}
+.Fspan{
+    font-size: 30px;
+    color: crimson;
+}
+
+.news_detail{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.button{
+    text-decoration: none;
+    line-height: 30px;
+    font-family: serif;
+    display: block;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    background-color:deepskyblue;
+}
